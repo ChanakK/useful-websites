@@ -22,12 +22,10 @@ These are some of the best websites for web developers
 - [Animated icons by ICONS8](https://icons8.com/animated-icons)
 - [Flaticon for vector icons](https://flaticon.com)
 
-
 ## Tools to create Mockups
 
 - [Figma](https://figma.com)
 - [Zeplin](https://zeplin.io)
-
 
 ## Design ideas
 
@@ -46,3 +44,11 @@ These are some of the best websites for web developers
 - [Heroku for back end](https://www.heroku.com/)
 
 The infromation was gathered from [JavaScript Mastery's](https://link) YouTube video, give him a sub and a thumbs up! I created this because I am learning web development and it will aid me in my web dev journey.
+
+## New websites
+
+I would like to make this open source so feel free to send a pull request if you wish to add new websites that might be helpful, I have already found a couple and will be adding them
+
+## Helpful JavaScript websites
+
+- [JavaScript30 by Wes Bos](https://javascript30.com)
