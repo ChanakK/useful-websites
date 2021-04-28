@@ -29,7 +29,7 @@ These are some of the best websites for web developers
 - [Zeplin](https://zeplin.io)
 
 
-## Desing ideas
+## Design ideas
 
 - [awwwards](https://awwwards.com)
 - [Behance](https://behance.net)
